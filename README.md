@@ -4,7 +4,7 @@
 
 ### How to use it?
 
-`POST` https://node-mailer-kp6g.onrender.com/send
+`POST https://node-mailer-kp6g.onrender.com/send`
 
 body
 ```
